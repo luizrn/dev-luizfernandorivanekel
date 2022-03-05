@@ -1,0 +1,17 @@
+# robots.txt gerado em 
+# marketingdebusca.com.br/robots-txt/
+User-agent: Googlebot
+Disallow: true
+User-agent: Slurp
+Disallow: true
+User-agent: MSNBot
+Disallow: true
+User-agent: Googlebot-Image
+Disallow: true
+User-agent: yahoo-mmcrawler
+Disallow: true
+User-agent: psbot
+Disallow: true
+User-agent: *
+Disallow: true
+Disallow: /admin
